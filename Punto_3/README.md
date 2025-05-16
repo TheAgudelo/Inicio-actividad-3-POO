@@ -14,4 +14,4 @@ El objetivo principal era **Desarrollar el código del enunciado de la pagina 22
 - Aunque el ejercicio no lo pide, se agrego un metodo `contructor` a la clase animal
 - Uso de `super()` para invocar constructores de clases padre.
 ## UML
-![Diagrama de clases](/Punto_3/Tienda_Mascotas/UML_Ejercicio3.png)
+![Diagrama de clases](/Punto_3/UML_Ejercicio3.png)

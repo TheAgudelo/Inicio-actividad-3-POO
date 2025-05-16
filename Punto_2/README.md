@@ -31,4 +31,4 @@ También se implementó:
 
 ## UML
 
-![Diagrama de clases](/Punto_2/Inmuebles/UML_Ejercicio2.png)
+![Diagrama de clases](/Punto_2/UML_Ejercicio2.png)
